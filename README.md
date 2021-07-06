@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Jeff! I am new to programming!
+- 👋 Hello, World, my name is Jeff! I am new to programming!
 
 - 👀 I’m interested in: Learning anything I can add to my repertoire. I want to be able to learn how to use a programming language as tools for software as a
      screwdriver is used for hardware.
